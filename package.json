@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Ornela's portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ornelahunda/Portfolio.git"
+  },
+  "keywords": [
+    "css",
+    "scss",
+    "js",
+    "html"
+  ],
+  "author": "Ornela Hunda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ornelahunda/Portfolio/issues"
+  },
+  "homepage": "https://github.com/ornelahunda/Portfolio#readme"
+}
